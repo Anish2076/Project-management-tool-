@@ -2,6 +2,10 @@
 
 A full-stack team project board with accounts, project membership, assigned tasks, comments, inbox notifications, and live board updates.
 
+## website  link 
+ http://localhost:5173/
+
+
 ## Requirements
 
 - Node.js 22.13 or newer (the app uses Node's built-in SQLite module)
